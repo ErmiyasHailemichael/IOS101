@@ -2,7 +2,8 @@
 
 Submitted by: **Ermiyas Hailemeichaelk**
 
-Changing Color App  is an app that randomly chnage the color of the screen when a button is clicked. 
+
+Changing Color App is an application that randomly changes the color of the screen when a button is clicked.
 
 Time spent: **7** hours spent in total
 
